@@ -1,0 +1,27 @@
+.interna_sobre {
+  background: url(../img/bg-sobre.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.missao_sobre {
+  padding: 70px 0 10px 0;
+}
+
+.missao_sobre p {
+  max-width: 520px;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 1em;
+  font-family: Georgia, "Times New Roman", serif;
+  padding-right: 40px;
+}
+
+.missao_sobre ul li {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.foto_equipe {
+  padding-top: 50px;
+}
